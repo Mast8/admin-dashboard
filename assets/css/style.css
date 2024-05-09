@@ -875,7 +875,7 @@ body {
    * TASKS
    */
 
-  .tasks .card-meta-list { justify-content: flex-end; }
+  .tasks .card-meta-list { justify-content: space-evenly; }
 
 }
 
